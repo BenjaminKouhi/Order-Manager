@@ -1,0 +1,14 @@
+.Container {
+    position: relative;
+    width: 100%; height: 45px;
+}
+
+.Color {
+    width: 10px; height: 100%;
+}
+
+.Title {
+    font-size: 25px; font-weight: 500;
+    position: absolute; color: black;
+    top: 10%; left: 15%;
+}

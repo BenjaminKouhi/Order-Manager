@@ -1,0 +1,24 @@
+.Container {
+    display: flex; align-items: center;
+    justify-content: space-between;
+    width: 30vw; padding: 10px 15px;
+    background-color: #fff; margin-bottom: 13px;
+    border-radius: 10px;
+}
+
+.Name {
+    display: flex; align-items: center;
+}
+
+.last {
+    padding-right: 5px;
+}
+
+.first {
+    padding-left: 5px;
+}
+
+.X {
+    color: red; font-weight: 700;
+    cursor: pointer;
+}

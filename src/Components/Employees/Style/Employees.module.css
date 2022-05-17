@@ -1,0 +1,17 @@
+h1 {
+    font-size: 78px; padding-bottom: 20px;
+}
+
+.add {
+    width: 20vw; height: 40px;
+    background-color: #fff;
+    display: flex; align-items: center; 
+    justify-content: center; padding-bottom: 8px;
+    font-size: 25px; font-weight: 600;
+    border-radius: 10px; cursor: pointer;
+    transition: .3s ease .0s;
+}
+
+.add:hover {
+    background-color: rgb(100, 0, 180);
+}
